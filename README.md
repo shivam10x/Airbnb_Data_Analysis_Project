@@ -1,8 +1,6 @@
 # Airbnb_Data_Analysis_Project
 
-# 🏡 Airbnb Data Analysis Project
-
-## 📌 Overview
+## Overview
 
 This project focuses on analyzing Airbnb listing data to uncover insights about pricing, availability, and location trends. Using Python and data visualization techniques, the goal is to understand factors affecting Airbnb prices and customer preferences.
 
