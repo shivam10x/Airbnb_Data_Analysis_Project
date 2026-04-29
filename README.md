@@ -19,7 +19,9 @@ This project focuses on analyzing Airbnb listing data to uncover insights about 
 
 * Python 🐍
 * Pandas
+* Numpy
 * Matplotlib
+* Seaborn
 * Jupyter Notebook
 
 ---
@@ -116,6 +118,7 @@ Feel free to fork this repository and contribute by submitting a pull request.
 ## 📧 Contact
 
 For any queries, reach out via GitHub profile.
+E-mail - upadhyayshivam3268@gmail.com
 
 ---
 
